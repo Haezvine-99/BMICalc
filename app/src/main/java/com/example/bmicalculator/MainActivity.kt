@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
         weightValue.setText("")
         heightValue.setText("")
         txtValue.setText("")
-
+//.......
         imageView.setImageResource(R.drawable.empty)
     }
 
