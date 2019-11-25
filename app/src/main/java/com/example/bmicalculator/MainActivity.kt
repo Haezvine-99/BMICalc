@@ -52,6 +52,9 @@ class MainActivity : AppCompatActivity() {
     public fun reset(){
         weightValue.setText("")
         heightValue.setText("")
+        txtValue.setText("")
+
+        imageView.setImageResource(R.drawable.empty)
     }
 
 }
